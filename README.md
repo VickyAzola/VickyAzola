@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/VickyAzola/VickyAzola/assets/116470398/b4366e6a-9f06-400c-b7f2-53675468ca20)
+![github-header-image (1)](https://github.com/VickyAzola/VickyAzola/assets/116470398/e2ba7967-910c-4692-899a-a525353a2600)
+
 
 Welcome to my profile 🤗
 I started studying code at the end of 2022, and I am constantly working on learning new things and improving my coding skills.
