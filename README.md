@@ -1,5 +1,11 @@
-### Hi there 👋
+![github-header-image](https://github.com/VickyAzola/VickyAzola/assets/116470398/b4366e6a-9f06-400c-b7f2-53675468ca20)
 
+Welcome to my profile 🤗
+I started studying code at the end of 2022, and I am constantly working on learning new things and improving my coding skills. Any advice is welcome!
+I’m currently learning accessibility, TailwindCSS, Javascript, and React.js.
+
+Check out my portfolio, where I show my programming projects based on front-end mentor challenges and UX design case studies.
+https://sites.google.com/view/victoria-azola/home
 <!--
 **VickyAzola/VickyAzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
