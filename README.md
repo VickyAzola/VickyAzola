@@ -6,7 +6,9 @@ I started studying code at the end of 2022, and I am constantly working on learn
 I’m currently learning accessibility, Javascript, and React.js.
 
 Check out my portfolio, where I show my programming projects based on front-end mentor challenges and UX design case studies.
+
 Spanish: https://sites.google.com/view/victoria-azola/home
+
 English: https://sites.google.com/view/victoria-azola-eng/home
 <!--
 **VickyAzola/VickyAzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
