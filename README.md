@@ -3,7 +3,7 @@
 
 Welcome to my profile 🤗
 I started studying code at the end of 2022, and I am constantly working on learning new things and improving my coding skills.
-I’m currently learning accessibility, Javascript, and React.js.
+I’m currently learning accessibility, Javascript, and Angular.js.
 
 Check out my portfolio, where I show my programming projects based on front-end mentor challenges and UX design case studies.
 
