@@ -2,8 +2,12 @@
 
 
 Welcome to my profile 🤗
-I started studying code at the end of 2022, and I am constantly working on learning new things and improving my coding skills.
-I’m currently learning accessibility, Javascript, and Angular.js.
+I started studying code at the end of 2022, and I am constantly working on learning new things and improving my coding skills. I code with: 
+
+![2](https://github.com/VickyAzola/VickyAzola/assets/116470398/296c55db-aec1-4efd-8bbe-d9e299b2eeaa)
+
+
+I’m currently learning next.js.
 
 Check out my portfolio, where I show my programming projects based on front-end mentor challenges and UX design case studies.
 
