@@ -4,10 +4,10 @@
 Welcome to my profile 🤗
 I started studying code at the end of 2022, and I am constantly working on learning new things and improving my coding skills. I code with: 
 
-![2](https://github.com/VickyAzola/VickyAzola/assets/116470398/296c55db-aec1-4efd-8bbe-d9e299b2eeaa)
+![3](https://github.com/VickyAzola/VickyAzola/assets/116470398/bbb58a14-cc20-40ac-8af1-085d619ec5c4)
 
 
-I’m currently learning next.js.
+I’m currently learning react.js, next.js and vue.js
 
 Check out my portfolio, where I show my programming projects based on front-end mentor challenges and UX design case studies.
 
