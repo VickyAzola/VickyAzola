@@ -4,7 +4,7 @@
 Welcome to my profile 🤗
 I started studying code at the end of 2022, and I am constantly working on learning new things and improving my coding skills. I code with: 
 
-![5](https://github.com/VickyAzola/VickyAzola/assets/116470398/151ba568-9a69-4f4d-9c1c-606167452028)
+![6](https://github.com/VickyAzola/VickyAzola/assets/116470398/5019beb1-bfbf-444d-9636-acd7eaa8c06d)
 
 
 I’m currently learning React.js and vue.js
