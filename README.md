@@ -7,9 +7,9 @@ I started studying code at the end of 2022, and I am constantly working on learn
 ![5](https://github.com/VickyAzola/VickyAzola/assets/116470398/151ba568-9a69-4f4d-9c1c-606167452028)
 
 
-I’m currently learning Angular.js and vue.js
+I’m currently learning React.js and vue.js
 
-Check out my portfolio, where I show my programming projects based on front-end mentor challenges and UX design case studies.
+Check out my portfolio, where I show my programming projects and UX design case studies.
 
 Spanish: https://sites.google.com/view/victoria-azola/home
 
