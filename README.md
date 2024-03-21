@@ -9,12 +9,14 @@ I started studying code at the end of 2022, and I am constantly working on learn
 
 I’m currently learning React.js and vue.js
 
+
+<!--
 Check out my portfolio, where I show my programming projects and UX design case studies.
 
 Spanish: https://sites.google.com/view/victoria-azola/home
 
 English: https://sites.google.com/view/victoria-azola-eng/home
-<!--
+
 **VickyAzola/VickyAzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
