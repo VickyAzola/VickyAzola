@@ -1,7 +1,8 @@
 ![github-header-image (1)](https://github.com/VickyAzola/VickyAzola/assets/116470398/e2ba7967-910c-4692-899a-a525353a2600)
 
 I'm Victoria 🤗, a self-taught Front-End developer. 
-I'm constantly working on learning new things and improving my coding skills. 
+
+I'm constantly working on learning new things and improving my coding skills. If you have some advice on how to improve my project, please let me know!
 I code with: 
 
 ![6](https://github.com/VickyAzola/VickyAzola/assets/116470398/5019beb1-bfbf-444d-9636-acd7eaa8c06d)
