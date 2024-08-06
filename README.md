@@ -8,13 +8,11 @@ I'm constantly working on learning new things and improving my coding skills. If
 
 ## I code with 
 
-![6-removebg-preview](https://github.com/VickyAzola/VickyAzola/assets/116470398/9a2a3618-4a27-4525-a4b4-ccaadabdb273)
-
+![7](https://github.com/user-attachments/assets/5557e304-edc9-4346-ac80-a23a6aefaefd)
 
 ## I’m currently learning 
 - React.js
 - Vue.js
-- Bootstrap
 
 ## Find me
 - [Portfolio](https://victoria-azola.netlify.app/), where I show my programming projects and UX design case studies.
@@ -29,16 +27,4 @@ I'm constantly working on learning new things and improving my coding skills. If
 
 <!--
 
-**VickyAzola/VickyAzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
