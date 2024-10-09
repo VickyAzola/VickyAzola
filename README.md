@@ -6,7 +6,7 @@ Por otro lado, me capacité en diseño de experiencia de usuario (UX) mediante e
 
 Constantemente estoy trabajando en mejorar mis habilidades de programación y en aprender nuevas tecnologías. Si tienes algún consejo de cómo mejorar alguno de mis proyectos, por favor házmelo saber!
 
-## Codifico con
+## Programo con
 
 ![7](https://github.com/user-attachments/assets/5557e304-edc9-4346-ac80-a23a6aefaefd)
 
@@ -14,7 +14,7 @@ Constantemente estoy trabajando en mejorar mis habilidades de programación y en
 - React.js
 - Vue.js
 
-## Encuentrame en
+## Encuentrame
 - [Portfolio](https://victoria-azola.netlify.app/)
 - [Linkedin](https://www.linkedin.com/in/victoria-azola-silva-454942263/)
 - [Front-End Mentor](https://www.frontendmentor.io/profile/VickyAzola)
