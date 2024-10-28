@@ -11,6 +11,7 @@ Constantemente estoy trabajando en mejorar mis habilidades de programación y en
 ![7](https://github.com/user-attachments/assets/5557e304-edc9-4346-ac80-a23a6aefaefd)
 
 ## Estoy Aprendiendo
+- React Native - Expo
 - React.js
 - Vue.js
 
